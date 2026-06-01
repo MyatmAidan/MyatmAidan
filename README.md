@@ -4,7 +4,7 @@
 
 ### Full Stack Developer
 
-I build modern web and mobile applications using frontend, backend, database, and DevOps technologies.
+I build modern web and mobile applications using frontend, backend, database.
 
 I enjoy creating clean user interfaces, building reliable APIs, and learning better ways to design scalable software.
 
@@ -17,8 +17,7 @@ I enjoy creating clean user interfaces, building reliable APIs, and learning bet
 - 💻 Full Stack Developer focused on **web and mobile development**
 - ⚙️ Interested in **backend systems, APIs, authentication, and database design**
 - 🌱 Currently improving my skills in **Go, System Design, and Clean Architecture**
-- 🧠 Experienced with **REST APIs, Auth, Databases, and Dockerized apps**
-- 🚀 Always learning and building real-world projects
+- 🧠 Experienced with **REST APIs, Auth, Databases**
 
 ---
 
@@ -59,5 +58,4 @@ I enjoy creating clean user interfaces, building reliable APIs, and learning bet
   Diploma in **Computing**  
   **2026**
 
-```txt
-Go • System Design • Backend Architecture • Clean Code • Scalable Applications
+
