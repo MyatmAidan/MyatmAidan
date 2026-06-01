@@ -14,9 +14,9 @@ I enjoy creating clean user interfaces, building reliable APIs, and learning bet
 
 ## 🧑‍💻 About Me
 
-- 💻 Full Stack Developer focused on **web and mobile development**
+- 💻 Full Stack Developer focused on **website and mobile development**
 - ⚙️ Interested in **backend systems, APIs, authentication, and database design**
-- 🌱 Currently improving my skills in **Go, System Design, and Clean Architecture**
+- 🌱 Currently improving my skills in Express.js, Node.js, and Clean Architecture**
 - 🧠 Experienced with **REST APIs, Auth, Databases**
 
 ---
@@ -26,9 +26,9 @@ I enjoy creating clean user interfaces, building reliable APIs, and learning bet
 ### Frontend
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" title="jQuery" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" />
