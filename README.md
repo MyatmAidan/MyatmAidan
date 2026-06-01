@@ -4,7 +4,7 @@
 
 ### Full Stack Developer
 
-I build modern web and mobile applications using frontend, backend, database.
+I build modern web and mobile applications using frontend, backend, and database technologies.
 
 I enjoy creating clean user interfaces, building reliable APIs, and learning better ways to design scalable software.
 
@@ -26,6 +26,8 @@ I enjoy creating clean user interfaces, building reliable APIs, and learning bet
 ### Frontend
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" title="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS" />
@@ -57,5 +59,3 @@ I enjoy creating clean user interfaces, building reliable APIs, and learning bet
 - 🏫 **Strategy First International College**  
   Diploma in **Computing**  
   **2026**
-
-
