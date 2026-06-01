@@ -39,7 +39,7 @@ I enjoy creating clean user interfaces, building reliable APIs, and learning bet
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel" />
 </p>
 
-### Database & DevOps
+### Database
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
