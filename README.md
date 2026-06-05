@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Htet Myat Thu
+# Hello, I'm Htet Myat Thu
 
 ### Full Stack Developer
 
@@ -18,6 +18,7 @@ I enjoy creating clean user interfaces, building reliable APIs, and learning bet
 - ⚙️ Interested in **backend systems, APIs, authentication, and database design**
 - 🌱 Currently improving my skills in Express.js, Node.js, and Clean Architecture**
 - 🧠 Experienced with **REST APIs, Auth, Databases**
+- 🧑‍💻 My profile https://hmt-portfolio-phi.vercel.app/
 
 ---
 
