@@ -23,7 +23,7 @@ I build modern, responsive web applications with a focus on clean UI, reliable b
 - Currently improving my skills in **Node.js, Express.js, and Clean Architecture**.
 - Focused on continuous learning, problem-solving, and delivering useful software.
 
-**Portfolio:** [hmt-portfolio-phi.vercel.app](https://hmt-portfolio-phi.vercel.app/)
+**Portfolio:** [hmt-portfolio-phi.vercel.app](https://www.htetmyatthu.com/)
 
 ---
 
