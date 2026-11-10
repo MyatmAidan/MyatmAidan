@@ -73,9 +73,9 @@ A live website project.
 
 My personal portfolio showcasing my background, skills, and development work.
 
-- **Live Demo:** [hmt-portfolio-phi.vercel.app](https://hmt-portfolio-phi.vercel.app/)
+- **Live Demo:** [www.htetmyatthu.com](https://www.htetmyatthu.com/)
 
-For more projects and details, visit my [portfolio website](https://hmt-portfolio-phi.vercel.app/).
+For more projects and details, visit my [portfolio website](https://www.htetmyatthu.com/).
 
 ---
 
@@ -107,7 +107,7 @@ Diploma in Computing
 I'm interested in opportunities to learn, collaborate, and build useful software.
 
 <p>
-  <a href="https://hmt-portfolio-phi.vercel.app/">
+  <a href="https://www.htetmyatthu.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-18181b?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/">
