@@ -89,7 +89,7 @@ January 2025
 **Strategy First International College**
 
 Diploma in Computing  
-2026
+November 2026
 
 ---
 
