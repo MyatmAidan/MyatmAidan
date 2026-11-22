@@ -25,15 +25,6 @@ I build modern, responsive web applications with a focus on clean UI, reliable b
 
 **Portfolio:** [www.htetmyatthu.com](https://www.htetmyatthu.com/)
 ---
----
-
-## Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MyatmAidan&label=Profile%20Views&color=18181b&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
 
 ## Tech Stack
 
@@ -59,6 +50,13 @@ I build modern, responsive web applications with a focus on clean UI, reliable b
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Development tools" />
+</p>
+
+---
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MyatmAidan&label=Profile%20Views&color=18181b&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
