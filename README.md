@@ -24,11 +24,12 @@ I build modern, responsive web applications with a focus on clean UI, reliable b
 - Focused on continuous learning, problem-solving, and delivering useful software.
 
 **Portfolio:** [www.htetmyatthu.com](https://www.htetmyatthu.com/)
-```
+---
+<p>
+  ```
 <img src="https://komarev.com/ghpvc/?username=MyatmAidan&label=Profile%20Views&color=18181b&style=for-the-badge" alt="Profile Views" />
 ```
----
-
+</p>
 ## Tech Stack
 
 ### Frontend
