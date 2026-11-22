@@ -10,9 +10,6 @@
     <img src="https://img.shields.io/badge/GitHub-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-```html
-<img src="https://komarev.com/ghpvc/?username=MyatmAidan&label=Profile%20Views&color=18181b&style=for-the-badge" alt="Profile Views" />
-```
 
 I build modern, responsive web applications with a focus on clean UI, reliable backend systems, and well-structured databases. I enjoy solving real-world problems through software, learning new technologies, and continuously improving my development skills.
 
@@ -27,7 +24,9 @@ I build modern, responsive web applications with a focus on clean UI, reliable b
 - Focused on continuous learning, problem-solving, and delivering useful software.
 
 **Portfolio:** [www.htetmyatthu.com](https://www.htetmyatthu.com/)
-
+```
+<img src="https://komarev.com/ghpvc/?username=MyatmAidan&label=Profile%20Views&color=18181b&style=for-the-badge" alt="Profile Views" />
+```
 ---
 
 ## Tech Stack
